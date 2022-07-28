@@ -38,4 +38,4 @@ Benjamin Becerra,
 ### ¡Otros proyectos! 👇
 
  - [Hornero App - Globant](https://github.com/benjaminBecerra/Hornero-App--Globant-)
- - [CinemaDB - Movie database](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [CinemaDB - Movie database](https://github.com/benjaminBecerra/Cinema-DB)
